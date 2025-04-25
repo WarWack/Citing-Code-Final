@@ -8,7 +8,8 @@
     let drag = 0.05;
 
     function setup() {
-      createCanvas(900, 700);
+      createCanvas(1220, 650);
+    background(50)
     }
 
     function draw() {
